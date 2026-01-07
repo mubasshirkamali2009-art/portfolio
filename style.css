@@ -91,7 +91,7 @@ margin-bottom: 5px;
     max-width: 585px;
     vertical-align: middle;
 }
-#about{
+#about , #resume{
     padding-top: 130px;
     
 }
@@ -164,4 +164,10 @@ font-size: 20px;
     line-height: 30px;
     margin-bottom: 30px;
     color: #757575;
+}
+  #resume .resume-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 113px auto 0;
+    display: flex;
 }
